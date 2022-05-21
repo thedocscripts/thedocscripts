@@ -11,7 +11,7 @@ Hi! My name is Enrique Cabello "AKA" Thedocscripts.
 I love creating scripts and learning by my self to program every day better
 
 - 🔭 I’m currently working on @citizenfx proyects.
-- 💬 Ask me about Lua, Java, HTML, CSS, JS, SQL...
+- 💬 Ask me about Lua, Java, HTML, CSS, JS, SQL..
 - ⚡ More about me: Like many I love playing video games, Im in charge "Desperados RP" a GTA5 Roleplay community, Love learning new things every day. 
 
 ## Used
