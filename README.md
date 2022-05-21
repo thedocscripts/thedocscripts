@@ -31,6 +31,7 @@ I love creating scripts and learning by my self to program every day better
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" />
    </p>
    
+   
 ## Stats   
 
    <p align="center">
