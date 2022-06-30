@@ -34,7 +34,13 @@ I love creating scripts and learning by my self to program every day better
    
 ## Stats   
 
-  <p align="center">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=thedocscripts&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true">
-   </p>
+ <p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/thedocscripts">
+      <img src="https://github-readme-stats.vercel.app/api/?username=thedocscripts&theme=dark&show_icons=true"/>
+    </td>
+  </tr>
+</p>
+
    
