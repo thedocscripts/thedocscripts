@@ -11,6 +11,7 @@ Hi! My name is Enrique Cabello "AKA" Thedocscripts.
 I love creating scripts and learning by my self to program every day better
 
 - 🔭 I’m currently working on @citizenfx proyects.
+- 🛠 Worked with web3 and solana bl
 - 💬 Ask me about Lua, Java, HTML, CSS, JS, SQL..
 - 🛠 Currently learning Android Studio Mobile apps
 - ⚡ More about me: Like many I love playing video games, Im in charge of programming roleplay communities in lua, Love learning new things every day. 
