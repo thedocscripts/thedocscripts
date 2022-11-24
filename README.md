@@ -53,3 +53,6 @@ I love creating scripts and learning by my self to program every day better
 </p>
 
    
+## Reach out to me over
+Discord: Thedoc#8115
+Email: Thedocscripts@gmail.com
