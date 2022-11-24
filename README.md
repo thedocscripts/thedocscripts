@@ -45,7 +45,9 @@ I love creating scripts and learning by my self to program every day better
     </td>
   </tr>
    <tr>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedocscripts&theme=darcula"/>
+       <td align="center" style="padding=0;width=50%;">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedocscripts&theme=darcula"/>
+          </td>
    </tr>
   
 </p>
