@@ -43,6 +43,9 @@ I love creating scripts and learning by my self to program every day better
       <img src="https://github-readme-stats.vercel.app/api/?username=thedocscripts&theme=dark&show_icons=true"/>
     </td>
   </tr>
+   <tr>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedocscripts&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+   </tr>
 </p>
 
    
