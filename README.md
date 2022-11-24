@@ -40,8 +40,7 @@ I love creating scripts and learning by my self to program every day better
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/thedocscripts">
-      <img src="https://github-readme-stats.vercel.app/api/?username=thedocscripts&theme=dark&show_icons=true"/>
-         
+      <img src="https://github-readme-stats.vercel.app/api/?username=thedocscripts&theme=dark&show_icons=true"/>   
     </td>
   </tr>
    <tr>
