@@ -41,11 +41,10 @@ I love creating scripts and learning by my self to program every day better
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/thedocscripts">
       <img src="https://github-readme-stats.vercel.app/api/?username=thedocscripts&theme=dark&show_icons=true"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedocscripts&theme=darcula"/>
     </td>
   </tr>
-   <tr>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedocscripts&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-   </tr>
+  
 </p>
 
    
