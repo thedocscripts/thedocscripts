@@ -55,4 +55,5 @@ I love creating scripts and learning by my self to program every day better
    
 ## Reach out to me over
 Discord: Thedoc#8115
+<br />
 Email: Thedocscripts@gmail.com
